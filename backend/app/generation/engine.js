@@ -1,4 +1,4 @@
-const Generation = require(".");
+const Generation = require("./index");
 
 class generationEngine {
   constructor() {
