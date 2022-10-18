@@ -2,10 +2,10 @@
   "name": "backend",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app",
   "scripts": {
     "start": "node ./bin/server",
-    "dev": "nodemon ."
+    "dev": "nodemon ./bin/server ."
   },
   "author": "",
   "license": "ISC",
